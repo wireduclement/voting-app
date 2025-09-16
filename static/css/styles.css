@@ -1,5 +1,5 @@
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: sans-serif;
 }
 
 .left-pane {
@@ -51,7 +51,7 @@ body {
 
 .admin-body {
   margin: 0;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: sans-serif;
   background: #2e2b2b;
   background: radial-gradient(circle, rgba(46, 43, 43, 1) 0%, rgba(254, 209, 106, 1) 95%);
   height: 100vh;
